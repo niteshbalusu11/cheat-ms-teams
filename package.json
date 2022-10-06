@@ -1,7 +1,7 @@
 {
   "name": "cheatercock",
-  "version": "1.0.0",
-  "description": "Move the mouse around to cheat Micosoft Teams",
+  "version": "1.0.1",
+  "description": "Move the mouse around to cheat Micosoft Teams and your boss.",
   "bin": {
     "cheat": "cheat.js"
   },
