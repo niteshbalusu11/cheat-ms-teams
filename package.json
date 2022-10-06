@@ -2,13 +2,11 @@
   "name": "cheat-ms-teams",
   "version": "1.0.0",
   "description": "Move the mouse around to cheat Micosoft Teams",
-  "main": "index.js",
   "bin": {
-    "cheat": "node index.js"
+    "cheat": "cheat.js"
   },
   "author": "Nitesh Balusu",
   "license": "MIT",
-  "private": false,
   "type": "module",
   "dependencies": {
     "async": "^3.2.4",
@@ -16,5 +14,8 @@
   },
   "devDependencies": {
     "prettier": "^2.7.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
   }
 }

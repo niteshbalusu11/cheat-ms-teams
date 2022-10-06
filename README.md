@@ -1,6 +1,11 @@
 # cheat-ms-teams
 
-## Yarn global install instructions (Requires NodeJs and Yarn)
+- Moves mouse around every 20 seconds to cheat microsoft teams.
+  <br />
+
+## Npm Global Install Instructions (Requires NodeJs):
+
+  <br />
 
 ### For Linux:
 
@@ -20,7 +25,9 @@ sudo apt-get install -y nodejs
 
 https://nodejs.dev/
 
-### Install
+<br />
+
+### Install App
 
 ```
 npm i -g cheat-ms-teams

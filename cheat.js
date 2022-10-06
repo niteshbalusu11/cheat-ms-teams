@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import { auto, forever } from 'async';
 
 import robot from 'robotjs';
