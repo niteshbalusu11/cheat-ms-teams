@@ -1,6 +1,6 @@
-# cheatercock
+# CheaterCock
 
-- Moves mouse around every 20 seconds to cheat microsoft teams.
+- Moves mouse around every 20 seconds to cheat microsoft teams and your boss.
   <br />
 
 ## Npm Global Install Instructions (Requires NodeJs):
