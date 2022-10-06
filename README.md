@@ -33,8 +33,11 @@ https://nodejs.dev/
 npm i -g cheatercock
 ```
 
-### Run App
+### Run App in terminal
 
 ```
 cheat
+
+# to quit
+ctrl + c
 ```
