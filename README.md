@@ -1,4 +1,4 @@
-# cheat-ms-teams
+# cheatercock
 
 - Moves mouse around every 20 seconds to cheat microsoft teams.
   <br />
@@ -30,7 +30,7 @@ https://nodejs.dev/
 ### Install App
 
 ```
-npm i -g cheat-ms-teams
+npm i -g cheatercock
 ```
 
 ### Run App
